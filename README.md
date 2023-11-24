@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://code-logg.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-E9568E?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a>
+</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMJminjeong&show_icons=true&theme=buefy)
