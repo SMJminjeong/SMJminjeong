@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ## 🧞‍♂️ What do I do on GitHub?
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMJminjeong&show_icons=true&theme=buefy)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMJminjeong&show_icons=true&theme=buefy) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mindong)](https://solved.ac/SMJminjeong)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mindong)](https://solved.ac/SMJminjeong) -->
