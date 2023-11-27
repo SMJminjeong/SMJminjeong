@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=Welcome!&fontColor=000000&fontSize=40&fontAlign=25&fontAlignY=20)
-### Hi 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=Welcome!&fontColor=000000&fontSize=40&fontAlign=15&fontAlignY=20)
+## HI 👋🏻 This is MinJeong's github 🧐
+#### 꾸준히 한발자국씩 나아가고자 하는 백엔드 개발자입니다! 🐜
 
 <!--
 **SMJminjeong/SMJminjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</br>
+
+## ❤️‍🔥 How do I use social media?
 <a href="https://code-logg.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-E9568E?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a>
 </br>
+
+</br>
+
+## 🧞‍♂️ What do I do on GitHub?
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMJminjeong&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
