@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Welcome!&fontColor=000000&fontSize=40&fontAlign=15&fontAlignY=30)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=Welcome!&fontColor=000000&fontSize=40&fontAlign=15&fontAlignY=20)
+<!-- ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=Welcome!&fontColor=000000&fontSize=40&fontAlign=15&fontAlignY=20) -->
 ## HI 👋🏻 This is MinJeong's github 🧐
 #### 꾸준히 한발자국씩 나아가고자 하는 백엔드 개발자입니다! 🐜
 
