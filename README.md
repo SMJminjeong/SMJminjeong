@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header)
+
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=Welcome!&fontColor=000000&fontSize=40&fontAlign=25&fontAlignY=20)
 ### Hi 👋
 
 <!--
@@ -18,3 +21,7 @@ Here are some ideas to get you started:
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMJminjeong&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+</br>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mindong)](https://solved.ac/SMJminjeong)
