@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 </br>
 
-## ❤️‍🔥 How do I use social media?
+## ❤️‍🔥 How do I use social media?!
 <a href="https://code-logg.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-E9568E?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a>
 </br>
 
 </br>
 
-## 🧞‍♂️ What do I do on GitHub?
+## 🧞‍♂️ What do I do on GitHub?!
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMJminjeong&show_icons=true&theme=buefy) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
