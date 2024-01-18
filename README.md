@@ -2,7 +2,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=Welcome!&fontColor=000000&fontSize=40&fontAlign=15&fontAlignY=20) -->
 ## HI 👋🏻 This is MinJeong's github 🧐
-#### 꾸준히 나아가고자 하는 백엔드 개발자입니다! 🐜
+#### 꾸준히 나아가고자 하는 개발자입니다! 🐜
 
 <!--
 **SMJminjeong/SMJminjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
